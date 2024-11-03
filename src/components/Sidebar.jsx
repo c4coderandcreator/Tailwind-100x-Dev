@@ -19,7 +19,6 @@ const Sidebar = () => {
           </div>
         </div>
 
-        {/* Navigation Links */}
         <div className="flex flex-col space-y-2">
           {[
             {
