@@ -7,17 +7,14 @@ const home = () => {
       <div className="w-[75vw] translate-x-[25vw]">
         <div>
           {" "}
-          <img
-            src="public/media/Screenshot 2024-11-03 at 10.37.43 AM.png"
-            alt="image"
-          />
+          <img src="public/media/Screenshot2.png" alt="image" />
         </div>
         {/* 2 */}
         <div className="flex gap-10 ">
           <div className="flex flex-col items-center pt-10 px-10 shadow-sm text-center bg-white ml-10 -translate-y-10 rounded-lg h-[50vh]">
             <img
               className="rounded-md w-[7rem] h-[7rem]"
-              src="/media/Screenshot 2024-11-03 at 10.33.51 AM.png"
+              src="/media/Screenshot1.png"
               alt="pp"
             />
             <p className="font-[poppinsSemiBold] text-[1.4rem] my-4">
