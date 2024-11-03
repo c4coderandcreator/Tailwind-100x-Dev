@@ -7,7 +7,7 @@ const home = () => {
       <div className="w-[75vw] translate-x-[25vw]">
         <div>
           {" "}
-          <img src="public/media/Screenshot2.png" alt="image" />
+          <img src="/media/Screenshot2.png" alt="image" />
         </div>
         {/* 2 */}
         <div className="flex gap-10 ">
@@ -129,7 +129,7 @@ const home = () => {
             <div className="justify-items-center">
               <img
                 className="h-[2rem] w-[2rem]"
-                src="public/media/Screenshot 2024-11-03 at 10.55.48 AM.png"
+                src="/media/Screenshot 2024-11-03 at 10.55.48 AM.png"
                 alt="image"
               />
               <p>schedule a Webinar</p>
@@ -137,7 +137,7 @@ const home = () => {
             <div className="justify-items-center">
               <img
                 className="h-[2rem] w-[2rem]"
-                src="public/media/Screenshot 2024-11-03 at 10.56.09 AM.png"
+                src="/media/Screenshot 2024-11-03 at 10.56.09 AM.png"
                 alt="image"
               />
               <p>Join a Webinar</p>
@@ -145,7 +145,7 @@ const home = () => {
             <div className="justify-items-center">
               <img
                 className="h-[2rem] w-[2rem]"
-                src="public/media/Screenshot 2024-11-03 at 10.56.20 AM.png"
+                src="/media/Screenshot 2024-11-03 at 10.56.20 AM.png"
                 alt="image"
               />
               <p>Open Recordings</p>
