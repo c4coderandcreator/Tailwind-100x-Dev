@@ -23,7 +23,7 @@ const Sidebar = () => {
           {[
             {
               label: "Home",
-              icon: "/media/Screenshot 2024-11-03 at 10.35.33 AM.png",
+              icon: "/media/Screenshot3.png",
             },
             {
               label: "Webinars",
