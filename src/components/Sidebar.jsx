@@ -13,7 +13,7 @@ const Sidebar = () => {
           <div>
             <img
               className="w-[2rem] h-[2rem] rounded-md"
-              src="public/media/Screenshot1.png"
+              src="/media/Screenshot1.png"
               alt="Profile"
             />
           </div>
