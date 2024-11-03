@@ -100,7 +100,7 @@ const home = () => {
                   <div>Important Webinar</div>
                 </div>
               </div>
-              <div className="flex gap-2 border-b-2 pb-4 pt-2">
+              <div className="flex gap-2 pb-4 pt-2">
                 <div className="border-r-2 border-r-[#d0f6f3] pr-2">
                   <p className="font-[poppinsMedium]">11:30 AM</p>
                   <p className="text-[0.5rem] text-[#f7f7f7]">11:30 AM</p>
